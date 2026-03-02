@@ -39,6 +39,6 @@ npm run dev
 ## Documentation
 
 Check the `/docs` directory for frontend/app integration guides:
-- [Android Integration Guide](./docs/integration_android.md)
+- [Android Integration Guide](./blob/main/integration_android.md)
 - [iOS Integration Guide](./docs/integration_ios.md)
 - [Angular/Web Integration Guide](./docs/integration_angular.md)
